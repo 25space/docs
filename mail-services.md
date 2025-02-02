@@ -42,7 +42,8 @@ BusinessMail integrates with the following versions of Outlook:
 
 You can add a new account by simply entering your email and password. (Select "Exchange" when prompted).
 If you have problems with the connection, you can connect the Exchange manually by entering the following host name. If you are also asked for a user name, you can find it in Cloud Management Suite > Applications > BusinessMail.
-Login Details: *outlook.mail.eu-west-1.awsapps.com*
+**Login Details:**
+outlook.mail.eu-west-1.awsapps.com
 
 **Classic connect via IMAPS/SMTPS**
 imap.mail.eu-west-1.awsapps.com / Port 993
@@ -53,10 +54,8 @@ Force SSL (no STARTTLS!), default authentication
 ### ClassicMail
 If you use Classic Mail/Simple Mail from the mdct Group (obsolete), you can integrate the mailbox via the following data.
 You can access your mailbox directly, simply and quickly via web access: mail.25space.com
-- Incoming server (IMAP – SSL / TLS)
-- imap.mdct-group.com (Port: 993)
-- Outgoing mail server (SMTP – SSL / TLS)
-- smtp.mdct-group.com (port: 465)
+- Incoming server (IMAP – SSL / TLS): imap.mdct-group.com (Port: 993)
+- Outgoing mail server (SMTP – SSL / TLS): smtp.mdct-group.com (port: 465)
 
 ### Further documents
 Details: https://blobstorage.25space.com/filedata/docs/mailconnect.pdf
