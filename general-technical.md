@@ -32,19 +32,9 @@ Further information and reports are available in the Cloud Management Suite unde
 
 ## Datacenter / Regions
 Our products can be deployed in different regions/data centers depending on availability at the time of order. The region Germany Frankfurt or Berlin (FRA1 / BER1) is the default region available for every product.
-Not every product is available in every data center. You can select this manually when ordering, a subsequent change of the data center is not possible. Please visit: https://25space.com/about/#datacenter
-BER1 - Berlin, Germany
-FRA1 - Frankfurt, Germany
-IRL1 - Dublin, Ireland
-AMS1 - Amsterdam, Netherlands
-BLR1 - Bangalore, India
-LON1 - London, England
-NYC1 - New York City, United States
-SFO1 - San Francisco, United States
-SGP1 - Singapore, Singapore
-TOR1 - Toronto, Canada
-Google Cloud - Various, For Google Services
-Automatic assignment - Defined on the main-host
+Not every product is available in every data center. You can select this manually when ordering, a subsequent change of the data center is not possible.
+For a datacenter list, please visit: 
+
 
 ## GEO-Blocking in the EU
 *Geo-blocking or geoblocking is technology that restricts access to Internet content based upon the user’s geographical location. In a geo-blocking scheme, the user’s location is determined using geolocation techniques, such as checking the user’s IP address against a blacklist or whitelist, accounts, and measuring the end-to-end delay of a network broadcasting unlock all program and event content of all genres on all TV platforms connection to estimate the physical location of the user and future global audiovisual and streaming and replay access video network broadcasting total television complete.
