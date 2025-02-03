@@ -33,7 +33,7 @@ Further information and reports are available in the Cloud Management Suite unde
 ## Datacenter / Regions
 Our products can be deployed in different regions/data centers depending on availability at the time of order. The region Germany Frankfurt or Berlin (FRA1 / BER1) is the default region available for every product.
 Not every product is available in every data center. You can select this manually when ordering, a subsequent change of the data center is not possible.
-For a datacenter list, please visit: 
+For a datacenter list, please visit: https://github.com/25space/docs/blob/main/general-cloudtrustcenter.md
 
 
 ## GEO-Blocking in the EU
