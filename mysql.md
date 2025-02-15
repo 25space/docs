@@ -25,6 +25,17 @@ Access from Windows Servers is not possible, also they are not available from ex
 ## Connection details
 Are individual for customers, they can be found in the Cloud Management Suite
 
+### Connection parameters
+<code>
+username = us_db_****************
+password = ****************
+host = *to be found in the Cloud Management Suite
+port = 25060
+database = db_****************
+sslmode = REQUIRED
+</code>
+
+
 ## MySQL Access & PHPMyAdmin
 You will find your connection details in the Cloud Management Suite at "Applications" > "MySQL".
 To manage the database itself, you can use our phpMyAdmin installation: https://cloud.25space.com/tools/phpMyAdmin
