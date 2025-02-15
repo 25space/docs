@@ -12,6 +12,9 @@ We use MySQL 8
 ## Support & Update time
 This time can be found in the Cloud Management Suite. The default time is Sunday 2AM - 6AM (MEZ)
 
+## Backups
+All databases are backed up fully automatically once a day. We usually keep the snapshots for up to 5 days.
+
 ## Technical limits
 - Max. storage for each database is 250MB
 
