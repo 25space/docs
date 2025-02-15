@@ -25,16 +25,33 @@ Access from Windows Servers is not possible, also they are not available from ex
 ## Connection details
 Are individual for customers, they can be found in the Cloud Management Suite
 
+### MySQL Connection (for WordPress,...)
+<code>
+define ('MYSQL_HOST', '*hostname*:25060');
+define ('MYSQL_USER', 'us_db_****************');
+define ('MYSQL_PASS', '****************');
+define ('MYSQL_DATA', 'db_****************');
+</code>
+
 ### Connection parameters
 <code>
 username = us_db_****************
 password = ****************
-host = *to be found in the Cloud Management Suite
+host = *to be found in the Cloud Management Suite*
 port = 25060
 database = db_****************
 sslmode = REQUIRED
 </code>
 
+### Connection string
+<code>
+mysql://us_db_****************:show-password@*hostname*:25060/defaultdb?ssl-mode=REQUIRED
+</code>
+
+### Connection flag
+<code>
+mysql -u us_db_**************** -pshow-password -h *hostname* -P 25060 -D db_****************
+</code>
 
 ## MySQL Access & PHPMyAdmin
 You will find your connection details in the Cloud Management Suite at "Applications" > "MySQL".
