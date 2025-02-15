@@ -12,6 +12,9 @@ We use MySQL 8
 ## Support & Update time
 This time can be found in the Cloud Management Suite. The default time is Sunday 2AM - 6AM (MEZ)
 
+## Technical limits
+- Max. storage for each database is 250MB
+
 ## Access from infrastructure
 You can access the MySQL Databse from all Linux virtual servers as well as WebApps.
 Access from Windows Servers is not possible, also they are not available from external services.
