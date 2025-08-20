@@ -1,14 +1,14 @@
 # Cloud Certificate Checker
-Product-Website: TBA
+Product-Website: https://25space.com/certificate-checker/
 
 ## About cloud the cloud certificate checker
 Our cloud based certificate checker is a service which provides an easy function to check the valid days of an web (htttps) certificate and get additional certificate informations.
 You can also create your first checks for free.
 
 ## Pricing
-You can check up to 3 certificates for free. If you need more, you can book monthly packages.
+You can check up to 3 certificates for free. If you need more, you can book monthly packages. It's possible to combine this packages with the free checks or with other packages
 For more details, please visit our pricing website: https://25space.com/pricing
-MORE PRICING DETAILS WILL BE ANNOUNCED SOON
+
   
 ## Management
 The service can be managed via the familiar Cloud Management Suite. Checks can be created, edited and deleted.
@@ -28,7 +28,7 @@ If a certificate is below 5 days, it is marked as warning in the Cloud Managemen
 
   
 ## Limits & checks
-- We check the certificates about every 6 hours, at least once a day.
+- We check the certificates about every 4 hours, at least once a day.
 - The free version is limited to 3 checks
 
 ## Source
